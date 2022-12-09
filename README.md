@@ -1,4 +1,4 @@
 # adventofcode2022
 adventofcode2022
 
-python solutions to AoC 2022.
+(mostly) python solutions to AoC 2022.
